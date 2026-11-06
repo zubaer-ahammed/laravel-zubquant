@@ -12,8 +12,12 @@
     "x-wing",
     "ml-dsa"
   ],
-  "homepage": "https://zubaer.com",
+  "homepage": "https://wp.zubaer.com/zubquant/",
   "license": "MIT",
+  "support": {
+    "docs": "https://wp.zubaer.com/zubquant/#docs",
+    "source": "https://github.com/zubaer-ahammed/zubquant"
+  },
   "authors": [
     {
       "name": "Md. Zubaer Ahammed",
