@@ -49,5 +49,5 @@ $verified = ZubQuant::verify($signedToken);
 
 ## License
 
-MIT © [Md. Zubaer Ahammed](https://zubaer.com) — Pro UI Vault & Key Rotation tools available at [polar.sh/zubaer-central](https://polar.sh/zubaer-central).
+MIT © [Md. Zubaer Ahammed](https://zubaer.com) — Pro UI Vault & Key Rotation tools available at [buy.polar.sh](https://buy.polar.sh/polar_cl_brmuJexJSmUsWDysyGsTNjFpVhmAJAqRoSPvi0G4qie).
 
